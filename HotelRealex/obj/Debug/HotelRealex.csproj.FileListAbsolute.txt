@@ -1,0 +1,7 @@
+C:\Users\DCL\source\repos\HotelRealex\HotelRealex\bin\Debug\HotelRealex.exe.config
+C:\Users\DCL\source\repos\HotelRealex\HotelRealex\bin\Debug\HotelRealex.exe
+C:\Users\DCL\source\repos\HotelRealex\HotelRealex\bin\Debug\HotelRealex.pdb
+C:\Users\DCL\source\repos\HotelRealex\HotelRealex\obj\Debug\HotelRealex.csproj.AssemblyReference.cache
+C:\Users\DCL\source\repos\HotelRealex\HotelRealex\obj\Debug\HotelRealex.csproj.CoreCompileInputs.cache
+C:\Users\DCL\source\repos\HotelRealex\HotelRealex\obj\Debug\HotelRealex.exe
+C:\Users\DCL\source\repos\HotelRealex\HotelRealex\obj\Debug\HotelRealex.pdb
